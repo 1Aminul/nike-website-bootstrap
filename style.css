@@ -1,0 +1,12 @@
+/* google font link */
+@import url('https://fonts.googleapis.com/css2?family=Playball&family=Poppins:wght@400;500;600;700;800&display=swap');
+*{
+    font-family: 'Poppins', sans-serif;
+}
+.bg-color1{
+    background-color: #fff9f4;
+}
+.size {
+    width: 30%;
+    height: 25%;
+}
